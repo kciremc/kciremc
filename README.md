@@ -1,4 +1,3 @@
-## Hi! 👋
 
 <div align="center">
   <img height="150" src="https://fuzzy-canopy-682.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F18754e08-6e62-4445-861b-11190b919884%2F2babe6a1-cef2-4177-92aa-fbb58dc770ff%2FNotion_Avatar_(1).png?table=block&id=598ddcf6-2e68-4862-8fc5-a208b1805dbc&spaceId=18754e08-6e62-4445-861b-11190b919884&width=410&userId=&cache=v2"  />
